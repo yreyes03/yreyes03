@@ -1,8 +1,8 @@
 ### Daniela Y Reyes 
 
-## I'm a student at the University of Texas at Austin interested in Psychology and Data Science.
+## I'm a psychology student at the University of Texas at Austin interested in data science.
 
-Being a psychology student has created an interest for me in research methods in the psycholgy filed. I learned the importance of statistics and data science and now I want to go into a similar field.
+I'm currently in my third year of college completing a bachelor's in psychology with an applied statisitcal modeling certificate. I currently work as a research assistant for the university. I hope to build a career in data science.
 <!--
 **yreyes03/yreyes03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
