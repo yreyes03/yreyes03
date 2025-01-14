@@ -1,4 +1,4 @@
-### Daniela Y Reyes 
+### Daniela Reyes 
 
 ## Bahavioral Data Science student at the University of Texas at Austin interested in data science.
 
